@@ -3,7 +3,7 @@
     <h1>歡迎來到線上投票系統</h1>
     <nav>
       <router-link to="/vote">進入投票</router-link> |
-      <router-link to="/admin">管理面板</router-link>
+      <router-link to="/admin">管理頁面</router-link>
     </nav>
   </div>
 </template>
